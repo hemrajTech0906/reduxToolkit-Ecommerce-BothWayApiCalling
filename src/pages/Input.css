@@ -1,0 +1,19 @@
+input{
+    width: 300px;
+    padding:10px;
+    font-size: 16px;
+    text-align: center;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items:flex-start ;height: 100vh;margin: 10px;
+}
+.inp1{
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 10px;
+}
+.inp2{
+    border-radius: 10px;
+}
